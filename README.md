@@ -1,0 +1,2 @@
+# Symulator zachowania układu fizycznego
+
