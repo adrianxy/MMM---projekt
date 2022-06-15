@@ -1,4 +1,4 @@
-# Symulator zachowania układu fizycznego
+# Symulator zachowania układu fizycznego - semestr 4 
 
 Treść zadania znajduje się w pliku "11.pdf"
 
